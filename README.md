@@ -1,7 +1,13 @@
 # Homework
-Привет! Удачной проверки С:
+<div align="center">
+<h1>
+  Привет! Удачной проверки С:
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+</h1>
+</div>
 
-Тестовое задание на позицию стажера-QA 
+## Тестовое задание на позицию стажера-QA 
 
 Ответ на задание 1 - файл task_1.docx
 
